@@ -1,0 +1,3 @@
+//ADD YOUR LINTER CONFIGS HERE
+
+//USE chmod +x .git/hooks/pre-commit TO GIVE EXECUTION ACCESS TO THE LINTER
